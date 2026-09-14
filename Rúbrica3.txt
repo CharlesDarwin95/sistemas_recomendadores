@@ -1,0 +1,27 @@
+Resumen - Rúbrica Tarea 3 (Sistemas Recomendadores)
+
+Puntaje Total: 60 puntos
+Niveles de logro por criterio: Óptimo (12 pts), Aceptable (8 pts), Debe mejorar (5 pts), No cumple (0 pts).
+
+Criterios de Evaluación para obtener el puntaje Óptimo (12 puntos en cada uno):
+
+1. Análisis de características de contenido:
+   - Elegir y justificar brevemente al menos 2 características de usuario y 2 de ítem.
+   - Graficar la distribución de 2 de estas características y calcular los datos solicitados.
+
+2. Generación de característica de contexto:
+   - Generar la característica de contexto justificando su creación.
+   - Plantear una hipótesis clara respecto al posible resultado esperado.
+
+3. Entrenamiento de Modelos:
+   - Entrenar los 3 modelos solicitados.
+   - Utilizar al menos 12 épocas por modelo.
+   - Mostrar alguna exploración de hiperparámetros.
+
+4. Evaluación de rendimiento:
+   - Generar una tabla comparativa con las métricas AUC y MSE para los 3 modelos.
+   - Indicar explícitamente cuál de los modelos obtuvo el mejor resultado.
+
+5. Evaluación de hipótesis:
+   - Entregar y ejecutar una metodología para poner a prueba la hipótesis planteada.
+   - Proponer una mejora apropiada para la metodología de trabajo.
